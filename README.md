@@ -1,6 +1,6 @@
 # Deku Release Engineering
 
-Release manifests, artifact verification and publication orchestration for Deku Linux.
+Release-manifest schemas and promotion gates for Deku Linux.
 
 ## Status
 
